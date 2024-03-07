@@ -1,0 +1,46 @@
+/* css declaration */
+
+/* selector{ */
+    /* property:value;} */
+
+    *{
+        margin:0;
+    }
+
+    /* selection  by tag  */
+
+    div{
+    /* background:tomato; */
+    width: 300px;
+    display:inline-block;
+    /* vertical-align:middle; */
+    padding: 20px;
+
+
+
+
+
+
+}
+
+/* selection by id */
+#firstdiv{
+    background: tomato;
+}
+
+/* selection by classs */
+.seconddiv {
+    background:#d7d7d7
+}
+
+.thirddiv{
+    background:blue;
+}
+
+section{
+/* background:black; */
+/* height:250px; */
+width: 90%;
+margin: 0 auto;
+text-align: center;
+}
